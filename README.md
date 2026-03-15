@@ -1,8 +1,4 @@
-# Xstar Sports — Automated YouTube Cricket Stream
-
-Fully automated live cricket streaming. Detects matches, creates YouTube broadcasts,
-streams to Main + Shorts simultaneously, and ends cleanly when matches finish.
-Zero manual steps after first-time setup.
+# Something 
 
 ---
 
