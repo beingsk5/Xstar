@@ -15,7 +15,7 @@ Fork to your GitHub account.
 ### Step 2 — Enable YouTube Data API
 
 1. Go to [console.cloud.google.com](https://console.cloud.google.com)
-2. Create a project called `xstar-sports`
+2. Create a project called `xyz`
 3. **APIs & Services → Enable APIs → YouTube Data API v3 → Enable**
 4. **APIs & Services → Credentials → Create Credentials → OAuth 2.0 Client ID**
 5. Application type: **Desktop app** → Create
