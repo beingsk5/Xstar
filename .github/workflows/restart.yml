@@ -1,8 +1,8 @@
 name: Xstar Sports Watchdog
 
 on:
-  schedule:
-    - cron: '*/25 * * * *'
+#  schedule:
+#    - cron: '*/25 * * * *'
   workflow_dispatch:
 
 jobs:
