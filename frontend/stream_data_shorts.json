@@ -1,0 +1,323 @@
+{
+  "sport": "cricket",
+  "stream_type": "shorts",
+  "match_id": "",
+  "series": "PSL 2025",
+  "match_desc": "Eliminator",
+  "match_format": "T20",
+  "team1": "Lahore",
+  "team2": "Karachi",
+  "title": "Lahore vs Karachi",
+  "state": "In Progress",
+  "status": "Lahore need 34 from 18 balls",
+  "score": "151/5",
+  "overs": "17.0",
+  "run_rate": "8.88",
+  "last_wicket": "Fakhar c Babar b Naseem 42",
+  "recent_overs": "6 1 W 4 0 2",
+  "win_prob": {
+    "team1": 0.45,
+    "team2": 0.55
+  },
+  "toss": "Karachi won the toss and elected to field",
+  "venue": "Gaddafi Stadium \u2022 Lahore",
+  "live_commentary": [
+    {
+      "over": "17.0",
+      "text": "SIX! Shaheen clears the long-on boundary \u2014 Lahore fighting!",
+      "event": "SIX"
+    },
+    {
+      "over": "16.6",
+      "text": "FOUR! Driven hard through covers \u2014 boundary",
+      "event": "FOUR"
+    },
+    {
+      "over": "16.5",
+      "text": "Dot ball \u2014 defended back to bowler"
+    },
+    {
+      "over": "16.4",
+      "text": "WICKET! Fakhar goes for the big shot, gets a top edge \u2014 caught at cover. c Babar b Naseem 42",
+      "event": "WICKET"
+    },
+    {
+      "over": "16.3",
+      "text": "Wide down leg \u2014 no ball called, free hit next!"
+    },
+    {
+      "over": "16.2",
+      "text": "Four leg byes \u2014 deflection off the pad",
+      "event": "FOUR"
+    },
+    {
+      "over": "16.1",
+      "text": "Good ball, beaten outside off \u2014 dot"
+    },
+    {
+      "over": "15.6",
+      "text": "SIX! Pulled over deep square leg \u2014 massive hit!",
+      "event": "SIX"
+    }
+  ],
+  "scorecard": {
+    "innings": [
+      {
+        "team_name": "Karachi",
+        "runs": 184,
+        "wickets": 7,
+        "overs": "20",
+        "run_rate": "9.20",
+        "extras": {
+          "wides": 6,
+          "noBalls": 2,
+          "byes": 0,
+          "legByes": 4,
+          "total": 12
+        },
+        "batsmen": [
+          {
+            "name": "Babar Azam",
+            "runs": 76,
+            "balls": 52,
+            "fours": 8,
+            "sixes": 3,
+            "strike_rate": "146.15",
+            "out_desc": "c Afridi b Haris 76"
+          },
+          {
+            "name": "Saim Ayub",
+            "runs": 34,
+            "balls": 28,
+            "fours": 4,
+            "sixes": 1,
+            "strike_rate": "121.42",
+            "out_desc": "b Shaheen 34"
+          },
+          {
+            "name": "Agha Salman",
+            "runs": 42,
+            "balls": 24,
+            "fours": 3,
+            "sixes": 3,
+            "strike_rate": "175.00",
+            "out_desc": "run out 42"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Shaheen Afridi",
+            "overs": "4",
+            "runs": 38,
+            "wickets": 2,
+            "economy": "9.50"
+          },
+          {
+            "name": "Haris Rauf",
+            "overs": "4",
+            "runs": 42,
+            "wickets": 2,
+            "economy": "10.50"
+          },
+          {
+            "name": "Fakhar Zaman",
+            "overs": "2",
+            "runs": 22,
+            "wickets": 0,
+            "economy": "11.00"
+          }
+        ],
+        "fall_of_wickets": [
+          {
+            "runs": 54,
+            "overs": "6.3",
+            "batter": "Saim Ayub"
+          },
+          {
+            "runs": 108,
+            "overs": "13.1",
+            "batter": "Babar Azam"
+          },
+          {
+            "runs": 156,
+            "overs": "17.4",
+            "batter": "Agha Salman"
+          }
+        ],
+        "partnerships": [
+          {
+            "bat1": "Babar",
+            "bat2": "Saim",
+            "runs": 54,
+            "balls": 42
+          },
+          {
+            "bat1": "Babar",
+            "bat2": "Agha",
+            "runs": 54,
+            "balls": 40
+          }
+        ]
+      },
+      {
+        "team_name": "Lahore",
+        "runs": 151,
+        "wickets": 5,
+        "overs": "17.0",
+        "run_rate": "8.88",
+        "extras": {
+          "wides": 5,
+          "noBalls": 1,
+          "byes": 0,
+          "legByes": 3,
+          "total": 9
+        },
+        "batsmen": [
+          {
+            "name": "Fakhar Zaman",
+            "runs": 42,
+            "balls": 35,
+            "fours": 5,
+            "sixes": 1,
+            "strike_rate": "120.00",
+            "out_desc": "c Babar b Naseem 42"
+          },
+          {
+            "name": "Sikandar Raza",
+            "runs": 38,
+            "balls": 29,
+            "fours": 4,
+            "sixes": 2,
+            "strike_rate": "131.03",
+            "out_desc": "batting"
+          },
+          {
+            "name": "Shaheen Afridi",
+            "runs": 12,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 2,
+            "strike_rate": "200.00",
+            "out_desc": "batting"
+          }
+        ],
+        "bowlers": [
+          {
+            "name": "Naseem Shah",
+            "overs": "4",
+            "runs": 32,
+            "wickets": 2,
+            "economy": "8.00"
+          },
+          {
+            "name": "Mohammad Amir",
+            "overs": "3",
+            "runs": 28,
+            "wickets": 1,
+            "economy": "9.33"
+          },
+          {
+            "name": "Usama Mir",
+            "overs": "4",
+            "runs": 38,
+            "wickets": 1,
+            "economy": "9.50"
+          },
+          {
+            "name": "Babar Azam",
+            "overs": "2",
+            "runs": 18,
+            "wickets": 1,
+            "economy": "9.00"
+          },
+          {
+            "name": "Khushdil Shah",
+            "overs": "3",
+            "runs": 26,
+            "wickets": 0,
+            "economy": "8.66"
+          }
+        ],
+        "fall_of_wickets": [
+          {
+            "runs": 44,
+            "overs": "5.2",
+            "batter": "Abdullah Shafique"
+          },
+          {
+            "runs": 95,
+            "overs": "11.4",
+            "batter": "Kamran Ghulam"
+          },
+          {
+            "runs": 118,
+            "overs": "14.1",
+            "batter": "Fakhar Zaman"
+          }
+        ],
+        "partnerships": [
+          {
+            "bat1": "Fakhar",
+            "bat2": "Abdullah",
+            "runs": 44,
+            "balls": 38
+          },
+          {
+            "bat1": "Fakhar",
+            "bat2": "Raza",
+            "runs": 51,
+            "balls": 40
+          }
+        ]
+      }
+    ]
+  },
+  "live_score": "151/5",
+  "live_overs": "17.0",
+  "live_crr": "8.88",
+  "live_batsmen": [
+    {
+      "batName": "Sikandar Raza",
+      "runs": 38,
+      "balls": 29,
+      "fours": 4,
+      "sixes": 2,
+      "strikeRate": "131.03"
+    },
+    {
+      "batName": "Shaheen Afridi",
+      "runs": 12,
+      "balls": 6,
+      "fours": 0,
+      "sixes": 2,
+      "strikeRate": "200.00"
+    }
+  ],
+  "last_ball": "6 1 W 4 0 2",
+  "last_updated": "2025-03-14T14:00:00Z",
+  "current_bowler": {
+    "bowlName": "Pat Cummins",
+    "wickets": 2,
+    "runs": 48,
+    "overs": "8.3",
+    "economy": "5.64",
+    "maidens": 0
+  },
+  "live_rrr": "8.20",
+  "req_rate": "8.20",
+  "is_free_hit": false,
+  "stream_complete": false,
+  "partnership_runs": 31,
+  "partnership_balls": 28,
+  "interruption": "",
+  "over_phase": "DEATH",
+  "innings_num": 2,
+  "innings_page": 2,
+  "live_target": "185",
+  "target": "185",
+  "dls_target": "",
+  "dls_announcement": false,
+  "resumption": "",
+  "match_start_ts": 0,
+  "live_dls_target": ""
+}
